@@ -1,7 +1,8 @@
-# Reviving-my-Compaq-Presario-CQ40-with-Zorin-OS-17.3-Lite.
+# Reviving-my-Compaq-Presario-CQ40-with-a knife,TV & Zorin-OS-17.3-Lite.
 I started with this non working laptop which was abandoned from last 16 years.......I took it out and then cleaned it. First, it had Windows 7 with 0 internet access but then, I thought of installing Linux.......Zorin OS 17.3 lite.....and now, it works flawlessly. I could browse and explore in this laptop and internet. Now it works and shines like factory-made.
 # The journey:
-Day 1: Cleaned and installed Zorin on this laptop.
+Day 1: Cleaned this laptop.
+Day 2: No HDD was there so searched in the house and got the original one. No Phillips screwdriver was there so I used knife to open the back screws. Display was not working so I attatched TV with HDMI and also cracked the password of Windows 7 with that classic trick of Utilman to cmd.exe.......and then i didn't had another PC so I transfered the ISO of Zorin OS 17.3 lite and old version of Rufus via data cable and then finally, I made the bootable drive with an old 2011 Sony USB Drive.
 Day 10: Built System monitor in Python which mimics Apple's Activity monitor.
 Day 12: Took the laptop from minimal to Highest optimised performance without a SSD.
 # The result:
@@ -13,5 +14,6 @@ The only most important goal I want to achieve is to get hired by Apple, Microso
 - Add battery level to system monitor
 - Build a privacy tool for Brave
 - Contribute to Brave’s GitHub
+{Note-You could check the screenshot of terminal to see the current optimisation of the laptop as it is 0.00% CPU.}
   
 ** By Nipun Vashisht, 9th standard, 13 years, 9th April 2026 **
