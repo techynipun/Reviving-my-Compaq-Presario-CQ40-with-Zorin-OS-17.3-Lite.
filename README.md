@@ -9,5 +9,10 @@ Old laptop with highly optimised performance with minimal resources (An Intel Ce
 # Tools which are used by me:
 Just Terminal for everything........from installing applications to optimising the laptop, all-in-1 place because I love saving and utilising the every piece of resource of a machinery. Also the Leo AI (Brave), for some of the hardest explanations (:
 The only most important goal I want to achieve is to get hired by Apple, Microsoft or Brave by the end of my schooling (12th standard) because of my interest and passion in technology, especially in UI, OS and terminal.
-
+## Future Plans
+- Add battery level to system monitor
+- Build a privacy tool for Brave
+- Contribute to Brave’s GitHub
+- Get a job at Apple or Brave by 12th standard
+- 
 ** By Nipun Vashisht, 9th standard, 13 years, 9th April 2026 **
