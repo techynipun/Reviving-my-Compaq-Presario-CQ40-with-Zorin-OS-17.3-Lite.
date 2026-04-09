@@ -13,6 +13,5 @@ The only most important goal I want to achieve is to get hired by Apple, Microso
 - Add battery level to system monitor
 - Build a privacy tool for Brave
 - Contribute to Brave’s GitHub
-- Get a job at Apple or Brave by 12th standard
-- 
+  
 ** By Nipun Vashisht, 9th standard, 13 years, 9th April 2026 **
