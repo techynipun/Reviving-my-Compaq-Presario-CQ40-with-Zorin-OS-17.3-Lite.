@@ -1,5 +1,5 @@
 import psutil
-import time
+import time 
 
 def get_battery():
     battery = psutil.sensors_battery()
