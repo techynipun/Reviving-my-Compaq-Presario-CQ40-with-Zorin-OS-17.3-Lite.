@@ -1,5 +1,5 @@
 # Reviving my Compaq Presario CQ40 with a knife,TV and Zorin OS 17.1 Lite.
-I started with this non working laptop which was abandoned from last 16 years.......I took it out and then cleaned it. First, it had Windows 7 with 0 internet access but then, I thought of installing Linux.......Zorin OS 17.3 lite.....and now, it works flawlessly. I could browse and explore in this laptop and internet. Now it works and shines like factory-made.
+I started with this non working laptop which was abandoned from last 16 years.......I took it out and then cleaned it. First, it had Windows 7 with 0 internet access but then, I thought of installing Linux.......Zorin OS 17.3 lite.....and now, it works flawlessly. I could browse and explore in this laptop and internet. Now it works and shines like factory-made. 
 # The journey:
 Day 1: Cleaned this laptop.
 Day 2: No HDD was there so searched in the house and got the original one. No Phillips screwdriver was there so I used knife to open the back screws. Display was not working so I attatched TV with HDMI and also cracked the password of Windows 7 with that classic trick of Utilman to cmd.exe.......and then i didn't had another PC so I transfered the ISO of Zorin OS 17.3 lite and old version of Rufus via data cable and then finally, I made the bootable drive with an old 2011 Sony USB Drive.
